@@ -3,10 +3,9 @@
 
 int main()
 {
-	int a;
-	int b;
-	
-	int c = a + b;
+	float m;
+	float n;
+	int c = m / n;
 	
 	return 0;
 }
